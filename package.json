@@ -5,6 +5,11 @@
   "scripts": {
     "start": "nodemon ./bin/www"
   },
+  "author": {
+    "name": "Wilson Rocha",
+    "linkedin": "https://www.linkedin.com/in/wilsonn-rocha/",
+    "github": "https://github.com/Sownatta"
+  },
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
