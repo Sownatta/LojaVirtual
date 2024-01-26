@@ -1,9 +1,10 @@
 ![](https://ada-site-frontend.s3.sa-east-1.amazonaws.com/home/header-logo.svg)
 
-# 🚀 Desafio Técnico: Exercício proposto no módulo 04 da formação VemSerTech. 
+# 🚀 Exercício proposto no módulo 04 da formação VemSerTech. 
 
 Descrição
 ---
+Projeto simples de back end de uma loja virtual com rotas básicas de CRUD e listagem para clientes e usuários.
 
 ## Executando o código localmente
 
@@ -17,15 +18,12 @@ winget install OpenJS.NodeJS.LTS
 ```sh
 cmd
 ```
-
-3. Digite `npm run start` (caso tenha o VSCode instalado)
-
+3. Digite `npm run start`
 ```sh
-app.js
+npm run start
 ``` 
 ## 🤖 Autor
 
-### Wilson
-- Nome: Wilson Rocha
+### Wilson Rocha
 - LinkedIn: [Wilson Rocha](https://www.linkedin.com/in/wilsonn-rocha/)
 - GitHub: [Sownatta](https://github.com/Sownatta)
